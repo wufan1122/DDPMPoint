@@ -1,4 +1,4 @@
-# Change detection head
+# keypoint detection head
 
 import torch
 import torch.nn as nn
